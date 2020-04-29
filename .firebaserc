@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtgraphics-6c768": {
+      "hosting": {
+        "rtgraphicsApp": [
+          "rtgraphics-6c768"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtgraphics-6c768"
+  }
+}

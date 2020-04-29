@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+  background-color: black;
+}
+
+hr {
+  background-color: grey;
+}
+
+.b-text-for-dark-bg{
+  color: whitesmoke;
+}
+
+.b-yellow {
+  color: #fcca3f;
+}
+
+.chart-legend .legend-label .active .legend-label-text {
+  color: #28da1d !important;
+}
